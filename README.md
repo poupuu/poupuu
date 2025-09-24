@@ -7,7 +7,8 @@ A tech enthusiast who loves exploring new things and data science student who’
 ## ⚡ Skills:
 - Microsoft Office (Word, Excel, PowerPoint)  
 - Python, SQL, R  
-- Figma  
+- Figma
+- Notion
 
 ## 💻 Tools & Frameworks I’ve worked with:
 Jupyter Notebook, Anaconda, VS Code, GitHub, Streamlit, Docker, Azure,  
