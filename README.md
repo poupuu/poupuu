@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/poupuu/poupuu/main/header-william.png)
+![Header image](https://raw.githubusercontent.com/poupuu/poupuu/main/Assets/header-github-william.jpg)
 
 A tech enthusiast who loves exploring new things and data science student who’s passionate about technology, business, and innovation. Connect with me!!
 
