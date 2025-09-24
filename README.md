@@ -9,6 +9,6 @@ A tech enthusiast who loves exploring new things and data science student who’
 - Python, SQL, R  
 - Figma  
 
-**Tools & Frameworks I’ve worked with:**  
+## 💻 Tools & Frameworks I’ve worked with:
 Jupyter Notebook, Anaconda, VS Code, GitHub, Streamlit, Docker, Azure,  
 TensorFlow, Keras, Scikit-Learn, PyTorch
