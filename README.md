@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/poupuu/poupuu/main/Assets/william-header.png)
+![Header image](https://raw.githubusercontent.com/poupuu/poupuu/main/william-header.png)
 
 Hi 👋, I'm **William**  
 A tech enthusiast who loves exploring new things and building cool projects.  
