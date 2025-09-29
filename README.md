@@ -9,6 +9,7 @@ A tech enthusiast who loves exploring new things and data science student who’
 - Python, SQL, R  
 - Figma
 - Notion
+- Tableau (on going 🏃)
 
 ## 💻 Tools & Frameworks I’ve worked with:
 Jupyter Notebook, Anaconda, VS Code, GitHub, Streamlit, Docker, Azure,  
